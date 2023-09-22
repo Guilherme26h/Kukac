@@ -45,8 +45,8 @@ export function Quarto() {
     return (
         <div className="container">
             <h1>Teste 4</h1>
-            <h1>Api de Busca de Cpf</h1>
-            <p>Digite um cpf</p>
+            <h1>Api de Busca de CEP</h1>
+            <p>Digite um CEP</p>
             <form onSubmit={handleSubmit}>
                 <input
                     type="text"
